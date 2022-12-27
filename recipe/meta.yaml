@@ -16,6 +16,9 @@ requirements:
   build:
     - {{ compiler('c') }}
     - make
+    - m2-filesystem                # [win]
+    - m2-bash                      # [win]
+    - m2-base                      # [win]
   host:
     - cython
     - python
