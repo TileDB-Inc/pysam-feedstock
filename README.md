@@ -368,4 +368,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@shelnutt2](https://github.com/shelnutt2/)
 
