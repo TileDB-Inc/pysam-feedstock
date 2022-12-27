@@ -9,7 +9,7 @@ source:
   sha256: 5a25d95b986c2cb9f5040b9df4e1d93ce9a8bc3af5a956b1317416ed05269f60
 
 build:
-  number: 1
+  number: 2
   binary_relocation: False # [linux]
 
 requirements:
