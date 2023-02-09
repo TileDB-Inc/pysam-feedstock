@@ -44,6 +44,31 @@ jobs:
       osx_64_libdeflate1.14python3.9.____cpython:
         CONFIG: osx_64_libdeflate1.14python3.9.____cpython
         UPLOAD_PACKAGES: 'True'
+      osx_64_libdeflate1.16python3.10.____cpython:
+        CONFIG: osx_64_libdeflate1.16python3.10.____cpython
+        UPLOAD_PACKAGES: 'True'
+      osx_64_libdeflate1.16python3.7.____cpython:
+        CONFIG: osx_64_libdeflate1.16python3.7.____cpython
+        UPLOAD_PACKAGES: 'True'
+      osx_64_libdeflate1.16python3.8.____cpython:
+        CONFIG: osx_64_libdeflate1.16python3.8.____cpython
+        UPLOAD_PACKAGES: 'True'
+      osx_64_libdeflate1.16python3.9.____cpython:
+        CONFIG: osx_64_libdeflate1.16python3.9.____cpython
+        UPLOAD_PACKAGES: 'True'
+      osx_64_libdeflate1.17python3.10.____cpython:
+        CONFIG: osx_64_libdeflate1.17python3.10.____cpython
+        UPLOAD_PACKAGES: 'True'
+      osx_64_libdeflate1.17python3.7.____cpython:
+        CONFIG: osx_64_libdeflate1.17python3.7.____cpython
+        UPLOAD_PACKAGES: 'True'
+      osx_64_libdeflate1.17python3.8.____cpython:
+        CONFIG: osx_64_libdeflate1.17python3.8.____cpython
+        UPLOAD_PACKAGES: 'True'
+      osx_64_libdeflate1.17python3.9.____cpython:
+        CONFIG: osx_64_libdeflate1.17python3.9.____cpython
+        UPLOAD_PACKAGES: 'True'
+    maxParallel: 10
   timeoutInMinutes: 360
 
   steps:

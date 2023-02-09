@@ -8,42 +8,127 @@ jobs:
     vmImage: windows-2019
   strategy:
     matrix:
-      win_64_libdeflate1.12python3.10.____cpython:
-        CONFIG: win_64_libdeflate1.12python3.10.____cpython
+      win_64_libdeflate1.12openssl1.1.1python3.10.____cpython:
+        CONFIG: win_64_libdeflate1.12openssl1.1.1python3.10.____cpython
         UPLOAD_PACKAGES: 'True'
-      win_64_libdeflate1.12python3.7.____cpython:
-        CONFIG: win_64_libdeflate1.12python3.7.____cpython
+      win_64_libdeflate1.12openssl1.1.1python3.7.____cpython:
+        CONFIG: win_64_libdeflate1.12openssl1.1.1python3.7.____cpython
         UPLOAD_PACKAGES: 'True'
-      win_64_libdeflate1.12python3.8.____cpython:
-        CONFIG: win_64_libdeflate1.12python3.8.____cpython
+      win_64_libdeflate1.12openssl1.1.1python3.8.____cpython:
+        CONFIG: win_64_libdeflate1.12openssl1.1.1python3.8.____cpython
         UPLOAD_PACKAGES: 'True'
-      win_64_libdeflate1.12python3.9.____cpython:
-        CONFIG: win_64_libdeflate1.12python3.9.____cpython
+      win_64_libdeflate1.12openssl1.1.1python3.9.____cpython:
+        CONFIG: win_64_libdeflate1.12openssl1.1.1python3.9.____cpython
         UPLOAD_PACKAGES: 'True'
-      win_64_libdeflate1.13python3.10.____cpython:
-        CONFIG: win_64_libdeflate1.13python3.10.____cpython
+      win_64_libdeflate1.12openssl3python3.10.____cpython:
+        CONFIG: win_64_libdeflate1.12openssl3python3.10.____cpython
         UPLOAD_PACKAGES: 'True'
-      win_64_libdeflate1.13python3.7.____cpython:
-        CONFIG: win_64_libdeflate1.13python3.7.____cpython
+      win_64_libdeflate1.12openssl3python3.7.____cpython:
+        CONFIG: win_64_libdeflate1.12openssl3python3.7.____cpython
         UPLOAD_PACKAGES: 'True'
-      win_64_libdeflate1.13python3.8.____cpython:
-        CONFIG: win_64_libdeflate1.13python3.8.____cpython
+      win_64_libdeflate1.12openssl3python3.8.____cpython:
+        CONFIG: win_64_libdeflate1.12openssl3python3.8.____cpython
         UPLOAD_PACKAGES: 'True'
-      win_64_libdeflate1.13python3.9.____cpython:
-        CONFIG: win_64_libdeflate1.13python3.9.____cpython
+      win_64_libdeflate1.12openssl3python3.9.____cpython:
+        CONFIG: win_64_libdeflate1.12openssl3python3.9.____cpython
         UPLOAD_PACKAGES: 'True'
-      win_64_libdeflate1.14python3.10.____cpython:
-        CONFIG: win_64_libdeflate1.14python3.10.____cpython
+      win_64_libdeflate1.13openssl1.1.1python3.10.____cpython:
+        CONFIG: win_64_libdeflate1.13openssl1.1.1python3.10.____cpython
         UPLOAD_PACKAGES: 'True'
-      win_64_libdeflate1.14python3.7.____cpython:
-        CONFIG: win_64_libdeflate1.14python3.7.____cpython
+      win_64_libdeflate1.13openssl1.1.1python3.7.____cpython:
+        CONFIG: win_64_libdeflate1.13openssl1.1.1python3.7.____cpython
         UPLOAD_PACKAGES: 'True'
-      win_64_libdeflate1.14python3.8.____cpython:
-        CONFIG: win_64_libdeflate1.14python3.8.____cpython
+      win_64_libdeflate1.13openssl1.1.1python3.8.____cpython:
+        CONFIG: win_64_libdeflate1.13openssl1.1.1python3.8.____cpython
         UPLOAD_PACKAGES: 'True'
-      win_64_libdeflate1.14python3.9.____cpython:
-        CONFIG: win_64_libdeflate1.14python3.9.____cpython
+      win_64_libdeflate1.13openssl1.1.1python3.9.____cpython:
+        CONFIG: win_64_libdeflate1.13openssl1.1.1python3.9.____cpython
         UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.13openssl3python3.10.____cpython:
+        CONFIG: win_64_libdeflate1.13openssl3python3.10.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.13openssl3python3.7.____cpython:
+        CONFIG: win_64_libdeflate1.13openssl3python3.7.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.13openssl3python3.8.____cpython:
+        CONFIG: win_64_libdeflate1.13openssl3python3.8.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.13openssl3python3.9.____cpython:
+        CONFIG: win_64_libdeflate1.13openssl3python3.9.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.14openssl1.1.1python3.10.____cpython:
+        CONFIG: win_64_libdeflate1.14openssl1.1.1python3.10.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.14openssl1.1.1python3.7.____cpython:
+        CONFIG: win_64_libdeflate1.14openssl1.1.1python3.7.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.14openssl1.1.1python3.8.____cpython:
+        CONFIG: win_64_libdeflate1.14openssl1.1.1python3.8.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.14openssl1.1.1python3.9.____cpython:
+        CONFIG: win_64_libdeflate1.14openssl1.1.1python3.9.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.14openssl3python3.10.____cpython:
+        CONFIG: win_64_libdeflate1.14openssl3python3.10.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.14openssl3python3.7.____cpython:
+        CONFIG: win_64_libdeflate1.14openssl3python3.7.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.14openssl3python3.8.____cpython:
+        CONFIG: win_64_libdeflate1.14openssl3python3.8.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.14openssl3python3.9.____cpython:
+        CONFIG: win_64_libdeflate1.14openssl3python3.9.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.16openssl1.1.1python3.10.____cpython:
+        CONFIG: win_64_libdeflate1.16openssl1.1.1python3.10.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.16openssl1.1.1python3.7.____cpython:
+        CONFIG: win_64_libdeflate1.16openssl1.1.1python3.7.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.16openssl1.1.1python3.8.____cpython:
+        CONFIG: win_64_libdeflate1.16openssl1.1.1python3.8.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.16openssl1.1.1python3.9.____cpython:
+        CONFIG: win_64_libdeflate1.16openssl1.1.1python3.9.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.16openssl3python3.10.____cpython:
+        CONFIG: win_64_libdeflate1.16openssl3python3.10.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.16openssl3python3.7.____cpython:
+        CONFIG: win_64_libdeflate1.16openssl3python3.7.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.16openssl3python3.8.____cpython:
+        CONFIG: win_64_libdeflate1.16openssl3python3.8.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.16openssl3python3.9.____cpython:
+        CONFIG: win_64_libdeflate1.16openssl3python3.9.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.17openssl1.1.1python3.10.____cpython:
+        CONFIG: win_64_libdeflate1.17openssl1.1.1python3.10.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.17openssl1.1.1python3.7.____cpython:
+        CONFIG: win_64_libdeflate1.17openssl1.1.1python3.7.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.17openssl1.1.1python3.8.____cpython:
+        CONFIG: win_64_libdeflate1.17openssl1.1.1python3.8.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.17openssl1.1.1python3.9.____cpython:
+        CONFIG: win_64_libdeflate1.17openssl1.1.1python3.9.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.17openssl3python3.10.____cpython:
+        CONFIG: win_64_libdeflate1.17openssl3python3.10.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.17openssl3python3.7.____cpython:
+        CONFIG: win_64_libdeflate1.17openssl3python3.7.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.17openssl3python3.8.____cpython:
+        CONFIG: win_64_libdeflate1.17openssl3python3.8.____cpython
+        UPLOAD_PACKAGES: 'True'
+      win_64_libdeflate1.17openssl3python3.9.____cpython:
+        CONFIG: win_64_libdeflate1.17openssl3python3.9.____cpython
+        UPLOAD_PACKAGES: 'True'
+    maxParallel: 20
   timeoutInMinutes: 360
   variables:
     CONDA_BLD_PATH: D:\\bld\\

@@ -27,87 +27,283 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>linux_64_libdeflate1.12python3.10.____cpython</td>
+              <td>linux_64_libdeflate1.12openssl1.1.1python3.10.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.12python3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.12openssl1.1.1python3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_libdeflate1.12python3.7.____cpython</td>
+              <td>linux_64_libdeflate1.12openssl1.1.1python3.7.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.12python3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.12openssl1.1.1python3.7.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_libdeflate1.12python3.8.____cpython</td>
+              <td>linux_64_libdeflate1.12openssl1.1.1python3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.12python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.12openssl1.1.1python3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_libdeflate1.12python3.9.____cpython</td>
+              <td>linux_64_libdeflate1.12openssl1.1.1python3.9.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.12python3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.12openssl1.1.1python3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_libdeflate1.13python3.10.____cpython</td>
+              <td>linux_64_libdeflate1.12openssl3python3.10.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.13python3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.12openssl3python3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_libdeflate1.13python3.7.____cpython</td>
+              <td>linux_64_libdeflate1.12openssl3python3.7.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.13python3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.12openssl3python3.7.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_libdeflate1.13python3.8.____cpython</td>
+              <td>linux_64_libdeflate1.12openssl3python3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.13python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.12openssl3python3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_libdeflate1.13python3.9.____cpython</td>
+              <td>linux_64_libdeflate1.12openssl3python3.9.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.13python3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.12openssl3python3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_libdeflate1.14python3.10.____cpython</td>
+              <td>linux_64_libdeflate1.13openssl1.1.1python3.10.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.14python3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.13openssl1.1.1python3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_libdeflate1.14python3.7.____cpython</td>
+              <td>linux_64_libdeflate1.13openssl1.1.1python3.7.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.14python3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.13openssl1.1.1python3.7.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_libdeflate1.14python3.8.____cpython</td>
+              <td>linux_64_libdeflate1.13openssl1.1.1python3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.14python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.13openssl1.1.1python3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_libdeflate1.14python3.9.____cpython</td>
+              <td>linux_64_libdeflate1.13openssl1.1.1python3.9.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.14python3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.13openssl1.1.1python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.13openssl3python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.13openssl3python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.13openssl3python3.7.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.13openssl3python3.7.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.13openssl3python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.13openssl3python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.13openssl3python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.13openssl3python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.14openssl1.1.1python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.14openssl1.1.1python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.14openssl1.1.1python3.7.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.14openssl1.1.1python3.7.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.14openssl1.1.1python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.14openssl1.1.1python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.14openssl1.1.1python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.14openssl1.1.1python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.14openssl3python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.14openssl3python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.14openssl3python3.7.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.14openssl3python3.7.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.14openssl3python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.14openssl3python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.14openssl3python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.14openssl3python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.16openssl1.1.1python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.16openssl1.1.1python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.16openssl1.1.1python3.7.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.16openssl1.1.1python3.7.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.16openssl1.1.1python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.16openssl1.1.1python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.16openssl1.1.1python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.16openssl1.1.1python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.16openssl3python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.16openssl3python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.16openssl3python3.7.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.16openssl3python3.7.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.16openssl3python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.16openssl3python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.16openssl3python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.16openssl3python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.17openssl1.1.1python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.17openssl1.1.1python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.17openssl1.1.1python3.7.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.17openssl1.1.1python3.7.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.17openssl1.1.1python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.17openssl1.1.1python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.17openssl1.1.1python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.17openssl1.1.1python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.17openssl3python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.17openssl3python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.17openssl3python3.7.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.17openssl3python3.7.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.17openssl3python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.17openssl3python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_libdeflate1.17openssl3python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.17openssl3python3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
@@ -195,87 +391,339 @@ Current build status
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_libdeflate1.12python3.10.____cpython</td>
+              <td>osx_64_libdeflate1.16python3.10.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.12python3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_libdeflate1.16python3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_libdeflate1.12python3.7.____cpython</td>
+              <td>osx_64_libdeflate1.16python3.7.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.12python3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_libdeflate1.16python3.7.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_libdeflate1.12python3.8.____cpython</td>
+              <td>osx_64_libdeflate1.16python3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.12python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_libdeflate1.16python3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_libdeflate1.12python3.9.____cpython</td>
+              <td>osx_64_libdeflate1.16python3.9.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.12python3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_libdeflate1.16python3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_libdeflate1.13python3.10.____cpython</td>
+              <td>osx_64_libdeflate1.17python3.10.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.13python3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_libdeflate1.17python3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_libdeflate1.13python3.7.____cpython</td>
+              <td>osx_64_libdeflate1.17python3.7.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.13python3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_libdeflate1.17python3.7.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_libdeflate1.13python3.8.____cpython</td>
+              <td>osx_64_libdeflate1.17python3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.13python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_libdeflate1.17python3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_libdeflate1.13python3.9.____cpython</td>
+              <td>osx_64_libdeflate1.17python3.9.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.13python3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_libdeflate1.17python3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_libdeflate1.14python3.10.____cpython</td>
+              <td>win_64_libdeflate1.12openssl1.1.1python3.10.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.14python3.10.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.12openssl1.1.1python3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_libdeflate1.14python3.7.____cpython</td>
+              <td>win_64_libdeflate1.12openssl1.1.1python3.7.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.14python3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.12openssl1.1.1python3.7.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_libdeflate1.14python3.8.____cpython</td>
+              <td>win_64_libdeflate1.12openssl1.1.1python3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.14python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.12openssl1.1.1python3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_libdeflate1.14python3.9.____cpython</td>
+              <td>win_64_libdeflate1.12openssl1.1.1python3.9.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.14python3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.12openssl1.1.1python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.12openssl3python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.12openssl3python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.12openssl3python3.7.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.12openssl3python3.7.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.12openssl3python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.12openssl3python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.12openssl3python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.12openssl3python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.13openssl1.1.1python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.13openssl1.1.1python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.13openssl1.1.1python3.7.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.13openssl1.1.1python3.7.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.13openssl1.1.1python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.13openssl1.1.1python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.13openssl1.1.1python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.13openssl1.1.1python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.13openssl3python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.13openssl3python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.13openssl3python3.7.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.13openssl3python3.7.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.13openssl3python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.13openssl3python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.13openssl3python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.13openssl3python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.14openssl1.1.1python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.14openssl1.1.1python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.14openssl1.1.1python3.7.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.14openssl1.1.1python3.7.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.14openssl1.1.1python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.14openssl1.1.1python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.14openssl1.1.1python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.14openssl1.1.1python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.14openssl3python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.14openssl3python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.14openssl3python3.7.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.14openssl3python3.7.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.14openssl3python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.14openssl3python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.14openssl3python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.14openssl3python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.16openssl1.1.1python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.16openssl1.1.1python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.16openssl1.1.1python3.7.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.16openssl1.1.1python3.7.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.16openssl1.1.1python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.16openssl1.1.1python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.16openssl1.1.1python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.16openssl1.1.1python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.16openssl3python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.16openssl3python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.16openssl3python3.7.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.16openssl3python3.7.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.16openssl3python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.16openssl3python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.16openssl3python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.16openssl3python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.17openssl1.1.1python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.17openssl1.1.1python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.17openssl1.1.1python3.7.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.17openssl1.1.1python3.7.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.17openssl1.1.1python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.17openssl1.1.1python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.17openssl1.1.1python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.17openssl1.1.1python3.9.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.17openssl3python3.10.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.17openssl3python3.10.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.17openssl3python3.7.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.17openssl3python3.7.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.17openssl3python3.8.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.17openssl3python3.8.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_libdeflate1.17openssl3python3.9.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=win&configuration=win%20win_64_libdeflate1.17openssl3python3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr>
