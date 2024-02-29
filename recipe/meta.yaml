@@ -9,7 +9,7 @@ source:
   sha256: 5a25d95b986c2cb9f5040b9df4e1d93ce9a8bc3af5a956b1317416ed05269f60
 
 build:
-  number: 3
+  number: 4
   binary_relocation: False # [linux]
 
 requirements:
@@ -20,7 +20,7 @@ requirements:
     - m2-bash                      # [win]
     - m2-base                      # [win]
   host:
-    - cython
+    - cython <3
     - python
     - setuptools
     - zlib
