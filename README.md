@@ -20,8 +20,8 @@ Current build status
     <td>
       <details>
         <summary>
-          <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-            <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main">
+          <a href="https://dev.azure.com/TileDB-Inc/CI/_build/latest?definitionId=45&branchName=main">
+            <img src="https://dev.azure.com/TileDB-Inc/CI/_apis/build/status/pysam-feedstock?branchName=main">
           </a>
         </summary>
         <table>
@@ -29,22 +29,22 @@ Current build status
           <tbody><tr>
               <td>linux_64_libdeflate1.17</td>
               <td>
-                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.17" alt="variant">
+                <a href="https://dev.azure.com/TileDB-Inc/CI/_build/latest?definitionId=45&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/CI/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.17" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>linux_64_libdeflate1.18</td>
               <td>
-                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.18" alt="variant">
+                <a href="https://dev.azure.com/TileDB-Inc/CI/_build/latest?definitionId=45&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/CI/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.18" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>linux_64_libdeflate1.19</td>
               <td>
-                <a href="https://dev.azure.com/TileDB-Inc/feedstock-builds/_build/latest?definitionId=&branchName=main">
-                  <img src="https://dev.azure.com/TileDB-Inc/feedstock-builds/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.19" alt="variant">
+                <a href="https://dev.azure.com/TileDB-Inc/CI/_build/latest?definitionId=45&branchName=main">
+                  <img src="https://dev.azure.com/TileDB-Inc/CI/_apis/build/status/pysam-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_libdeflate1.19" alt="variant">
                 </a>
               </td>
             </tr>
