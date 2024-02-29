@@ -10,3 +10,4 @@ provider:
   linux_64: azure
   osx_64: None
   win_64: None
+upload_on_branch: main
