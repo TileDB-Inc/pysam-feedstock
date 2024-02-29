@@ -1,5 +1,5 @@
 channel_sources:
-  - tiledb,conda-forge,defaults
+  - conda-forge
 channel_targets:
   - tiledb main
 numpy:
