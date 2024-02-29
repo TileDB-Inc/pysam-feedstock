@@ -2,3 +2,7 @@ github:
   user_or_org: TileDB-Inc
   branch_name: main
   tooling_branch_name: main
+provider:
+  linux_64: azure
+  osx_64: None
+  win_64: None

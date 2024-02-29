@@ -168,7 +168,6 @@ jobs:
         CONFIG: linux_64_libdeflate1.17openssl3python3.9.____cpython
         UPLOAD_PACKAGES: 'True'
         DOCKER_IMAGE: quay.io/condaforge/linux-anvil-cos7-x86_64
-    maxParallel: 20
   timeoutInMinutes: 360
 
   steps:
