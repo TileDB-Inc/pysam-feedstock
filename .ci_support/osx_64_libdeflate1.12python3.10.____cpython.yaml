@@ -7,13 +7,13 @@ bzip2:
 c_compiler:
 - clang
 c_compiler_version:
-- '14'
+- '16'
 channel_sources:
 - tiledb,conda-forge,defaults
 channel_targets:
 - tiledb main
 libcurl:
-- '7'
+- '8'
 libdeflate:
 - '1.12'
 macos_machine:

@@ -1,11 +1,11 @@
-About pysam
-===========
+About pysam-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/TileDB-Inc/pysam-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/pysam-developers/pysam
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/TileDB-Inc/pysam-feedstock/blob/main/LICENSE.txt)
 
 Summary: Pysam is a Python module for reading and manipulating SAM/BAM/VCF/BCF files. It's a lightweight wrapper of the htslib C-API, the same one that powers samtools, bcftools, and tabix.
 
