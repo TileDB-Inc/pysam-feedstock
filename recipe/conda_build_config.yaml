@@ -20,7 +20,7 @@ openssl:
 xz:
   - 5
 zlib:
-  - 1.2
+  - 1.3
 numpy:
   - 1.23
 python:
